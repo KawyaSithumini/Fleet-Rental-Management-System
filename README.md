@@ -21,4 +21,3 @@ How to Run:
 4. Run the Main.java class (Shift + F6).
 5. Register a user, log in, and use the terminal menu to manage the fleet.
 
-I got help from AI while writing the code.
